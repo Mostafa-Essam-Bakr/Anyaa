@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Anyaa.git/static/css/main.cccd1e22.css",
+    "main.js": "/Anyaa.git/static/js/main.fb70d050.js",
+    "static/js/453.c8fdba14.chunk.js": "/Anyaa.git/static/js/453.c8fdba14.chunk.js",
+    "static/media/1st.jpg": "/Anyaa.git/static/media/1st.28572df2f88e3611e949.jpg",
+    "static/media/cover.jpg": "/Anyaa.git/static/media/cover.37c14d6f274664604b1c.jpg",
+    "index.html": "/Anyaa.git/index.html",
+    "main.cccd1e22.css.map": "/Anyaa.git/static/css/main.cccd1e22.css.map",
+    "main.fb70d050.js.map": "/Anyaa.git/static/js/main.fb70d050.js.map",
+    "453.c8fdba14.chunk.js.map": "/Anyaa.git/static/js/453.c8fdba14.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cccd1e22.css",
+    "static/js/main.fb70d050.js"
+  ]
+}
