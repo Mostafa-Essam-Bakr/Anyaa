@@ -5,12 +5,12 @@ import Start from "./chatboot/Start";
 function App() {
   return (
     <div>
-      <HashRouter>
+      <BrowserRouter>
         <Routes>
           <Route path="/" element={<Start />} />
           <Route path="/Start" element={<Ai />} />
         </Routes>
-      </HashRouter>
+      </BrowserRouter>
     </div>
   );
 }
